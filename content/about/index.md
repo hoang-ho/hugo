@@ -15,7 +15,7 @@ I'm now exploring domains in software engineering: distributed system, probabili
 
 ### Hobbies
 
-I used to watch a lot of movies but essientially curb down on that now. Recommended movies: Spirited Away, Inside Out, Inception, The Dark Knight triology, Black Swan, Whiplash, The Grand Budapest Hotel, Mad Max: Fury Road, Pan's labyrinth, The Lives of Others, Parasite, The Handmaiden. 
+I used to watch a lot of movies but essientially curb down on that.
 
 My favorite soccer (football) team is Chelsea F.C. 
 
