@@ -4,17 +4,15 @@ date: 2021-01-13
 ---
 
 Random fun facts:
-* I changed my major three times in college
-* I have two middle names 
-* I spent three summers learning to swim (I swim very well now 😝)
-
+* I'm a first generation college graduate 
+* I changed my major three times in college (Statistics -> Mathematics and Economics -> Mathematics)
+* I have two middle names
 ### Interest
 I’m interested in but realistically not getting back onto the machine learning hype train. I worked on a project about neural network compression techniques at UMass Amherst. 
 
 I'm now exploring domains in software engineering: distributed system, probabilistic databases. 
 
 ### Hobbies
-
 I used to watch a lot of movies but essientially curb down on that.
 
 My favorite soccer (football) team is Chelsea F.C. 
