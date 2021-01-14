@@ -19,7 +19,7 @@ I used to watch a lot of movies but essientially curb down on that.
 
 My favorite soccer (football) team is Chelsea F.C. 
 
-Recently, I get to enjoy cooking, I browse recipes from [seongkyonglongest](https://seonkyounglongest.com).
+Recently, I get to enjoy cooking, I either improvise recipe or browse recipes from [seongkyonglongest](https://seonkyounglongest.com).
 
 I'm a practioner of [The Plum Village Tradition](https://seonkyounglongest.com).
 
