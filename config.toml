@@ -25,7 +25,7 @@ weight = 3
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I'm an incoming Software Engineer at Apple. I was SDE intern at Amazon.com and Research intern at IBM Research, Yorktown Heights"
+  description = "I'm an incoming Software Engineer at Apple in NYC. I was SDE intern at Amazon.com and Research intern at IBM Research."
   MainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
