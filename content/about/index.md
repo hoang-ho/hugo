@@ -10,7 +10,7 @@ Random fun facts:
 ### Interest
 I’m interested in but realistically not getting back onto the machine learning hype train. I worked on a project about neural network compression techniques at UMass Amherst. 
 
-I'm now exploring domains in software engineering: distributed system, probabilistic databases. 
+I'm now exploring domains in software engineering: big data, distributed system. 
 
 ### Hobbies
 I used to watch a lot of movies but essientially curb down on that.
