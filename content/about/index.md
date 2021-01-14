@@ -27,5 +27,4 @@ Currently reading:
 
 * [Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 * [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
-* Technology articles 
-* [Aeon](https://aeon.co/)
+* Articles ([TechCrunch](https://techcrunch.com), [Aeon](https://aeon.co/))
