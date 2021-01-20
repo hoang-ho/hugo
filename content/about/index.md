@@ -13,11 +13,11 @@ I’m interested in but realistically not getting back onto the machine learning
 I'm now exploring domains in software engineering: big data, distributed system. 
 
 ### Hobbies
-I used to watch a lot of movies but essientially curb down on that.
+I used to watch a lot of movies but essientially put a strict limit on that.
 
-My favorite soccer (football) team is Chelsea F.C. 
+My favorite football (soccer) team is Chelsea F.C. 
 
-Recently, I get to enjoy cooking, I either improvise recipe or browse recipes from [seongkyonglongest](https://seonkyounglongest.com).
+Recently, I get to enjoy cooking, I either improvise recipe or spend hours browsing recipes from the internet. 
 
 I'm a practioner of [The Plum Village Tradition](https://plumvillage.org).
 
