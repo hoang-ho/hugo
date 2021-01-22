@@ -25,6 +25,8 @@ I'm a practioner of [The Plum Village Tradition](https://plumvillage.org).
 
 Currently reading:
 
-* [Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
-* [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
-* Articles ([TechCrunch](https://techcrunch.com), [Aeon](https://aeon.co/))
+* [Distributed Systems, 3rd Edition, Andrew Tannenbaum and Maarten van Steen](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) (hopefully will finish most of it by June)
+* [Spring in Action, Fifth Edition](https://www.manning.com/books/spring-in-action-fifth-edition) (hopefully will finish most of it by June)
+* [Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) (hopefully will finish most of it by the end of the year)
+* [Functional Programming in Scala](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653) (hopefully will finish most of it by the end of the year)
+* Articles ([TechCrunch](https://techcrunch.com), [Aeon](https://aeon.co/)) (Read daily)
