@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Hoang Ho"
 theme = "cactus"
 copyright = "Hoang Ho" 
+googleAnalytics = "UA-187918729-1"
 
 [[menu.main]]
 name = "Home"
