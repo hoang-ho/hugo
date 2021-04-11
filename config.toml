@@ -2,8 +2,9 @@ baseURL = "https://hoang-ho.github.io/"
 languageCode = "en-us"
 title = "Hoang Ho"
 theme = "cactus"
-copyright = "Hoang Ho" 
+copyright = "Zeran Wu" 
 googleAnalytics = "UA-187918729-1"
+staticDir = ["static"]
 
 [[menu.main]]
 name = "Home"
@@ -27,7 +28,7 @@ weight = 3
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I'll be a full-time Software Engineer at Apple, New York city starting on June 2021. I was SDE intern at Amazon and Research intern at IBM Research."
+  description = "I'll be a full-time Software Engineer at Apple, New York city starting on June 2021. I was SDE intern at Amazon in summer 2020 and Research intern at IBM Research in summer 2019. If you want to get in touch, feel free to contact me!"
   MainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -40,6 +41,7 @@ weight = 3
 
   # Post page settings
   show_updated = false # default
+  mathjax = true
 
   [params.comments]
     enabled = false # default

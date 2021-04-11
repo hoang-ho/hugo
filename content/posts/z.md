@@ -2,7 +2,7 @@
 title: First Post
 date: 2021-01-13
 categories: life
-keywords: 
+keywords: life
 ---
 
 :-)
