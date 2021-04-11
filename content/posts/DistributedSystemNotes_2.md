@@ -138,7 +138,7 @@ DNS is distributed through three logical layers:
 >
 > For long distance communiation from the client to the name server, recursive may be better. Also, it depends because we can use caching for iterative as well.
 
-**Home-based Approaches**
+## Mobile IP
 
 Nodes in the Internet are phones. This means nodes can move from location to the other, resulting in different IP Addresses. Mobile IP: attaches a home location to each node and if the node moves, it has to register the new IP address with its home server. So when you try to do a lookup or connect to that machine, you first connect to the home server and then get redirected to the IP address of where the node is. 
 
