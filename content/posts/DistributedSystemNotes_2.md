@@ -136,7 +136,7 @@ DNS is distributed through three logical layers:
 
 > Q: Recursive vs Iterative?
 >
-> For long distance communiation from the client to the name server, recursive may be better. Also, it depends because we can use caching for iterative as well.
+> A: For long distance communiation from the client to the name server, recursive may be better. Also, it depends because we can use caching for iterative as well.
 
 ## Mobile IP
 
