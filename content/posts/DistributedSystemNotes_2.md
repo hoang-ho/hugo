@@ -5,7 +5,7 @@ categories: tech, notes, Distributed System
 keywords: Distributed System
 ---
 
-> Disclaimer: This is my personal class notes for CompSci 677 taught by Prof. Marco Serafini at UMass Amherst Spring 2021. All images are taken from the free version of [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. Notes contains extracts from [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. This notes are for me to review the materials and for you if you are looking to review some concepts.
+> Disclaimer: This is my personal class notes for Distributed Operating System course taught at UMass Amherst. All images are taken from the free version of [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. Notes contains extracts from [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. This notes are for me to review the materials and for you if you are looking to review some concepts.
 
 # Lecture 8: Persistency, Message Queueing System and Streaming
 
@@ -155,6 +155,7 @@ Events in single processor machine are totally ordered
 We can use send/receive messages exchanged between processes/machines to order event since messages must be sent before received. We can use transitivity to reason about order of events.
 
 Algorithms for updating logical clocks
+
 1. Whenever a local event occurs at machine i, $LC_i = LC_i + 1$
 2. When machine i wants to send a message, it includes $LC_i$ in the message 
 3. When machine j receives a message from i, if $LC_j < LC_i$ it updates its logical clock as $LC_j = LC_i + 1$ else do nothing

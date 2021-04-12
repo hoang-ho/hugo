@@ -5,7 +5,7 @@ categories: tech, notes, Distributed System
 keywords: Distributed System
 ---
 
-> Disclaimer: This is my personal class notes for CompSci 677 taught by Prof. Marco Serafini at UMass Amherst Spring 2021. All images are taken from the free version of [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. Notes contains extracts from [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. This notes are for me to review the materials and for you if you are looking to review some concepts.
+> Disclaimer: This is my personal class notes for Distributed Operating System course taught at UMass Amherst. All images are taken from the free version of [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. Notes contains extracts from [textbook](https://www.distributed-systems.net/index.php/books/ds3/ds3-sneak-preview/) and from slides. This notes are for me to review the materials and for you if you are looking to review some concepts.
 
 # Lecture 1: High level concepts
 
@@ -393,7 +393,7 @@ When a process in machine A calls a procedure in machine B, the calling process 
 
 **Case Study: SUNRPC**
 
-# Lecture 7
+# Lecture 7 Remote Method Invocation
 
 ## Lightweight RPC
 
